@@ -49,6 +49,9 @@
                         <li class="navbar-nav me-auto">
                             <a class="nav-link" href="{{route('projects.index')}}">List Projects</a>
                         </li>
+                        <li class="navbar-nav me-auto">
+                            <a class="nav-link" href="{{route('projects.create')}}">Create New Project</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
